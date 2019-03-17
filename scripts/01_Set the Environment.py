@@ -6,4 +6,3 @@
 
 import nltk
 nltk.download()
-
