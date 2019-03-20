@@ -1,5 +1,6 @@
 .ipynb_checkpoints/*
 data/
+corpus_kr
 checkpoint/
 graphs/
 
